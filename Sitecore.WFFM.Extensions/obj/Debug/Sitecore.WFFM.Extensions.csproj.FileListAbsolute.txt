@@ -1,0 +1,11 @@
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\obj\Debug\Sitecore.WFFM.Extensions.csprojResolveAssemblyReference.cache
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.WFFM.Extensions.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.WFFM.Extensions.pdb
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.Analytics.DataAccess.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.Analytics.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.Analytics.Model.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.Kernel.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.WFFM.Abstractions.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\bin\Debug\Sitecore.WFFM.Actions.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\obj\Debug\Sitecore.WFFM.Extensions.dll
+c:\users\macbook\documents\visual studio 2015\Projects\Sitecore.WFFM.Extensions\Sitecore.WFFM.Extensions\obj\Debug\Sitecore.WFFM.Extensions.pdb
