@@ -11,4 +11,5 @@ this module will help you to overcome this.
 I recomend you to read the following posts to understand the overall problem and solution:
 <ol>
   <li> <a href ="http://sitecoreinfo.blogspot.com/2018/01/sitecore-experience-profile-and.html">Sitecore Experience Profile And The “Anonymous” Records Problem - Part 1 </a></li>
+  <li> <a href ="http://sitecoreinfo.blogspot.com/2018/01/sitecore-experience-profile-identify.html">Sitecore Experience Profile - Identify and Merge Contact when submitting WFFM form - Part 2 </a></li>
   </ol>
